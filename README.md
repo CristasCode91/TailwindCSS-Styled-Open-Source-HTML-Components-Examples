@@ -1,1 +1,1 @@
-This project contains ready to use html components styled with TailwindCss
+This project contains ready to use html components styled with TailwindCSS
